@@ -1,10 +1,10 @@
-Privacy Policy for Kloudemy
+Privacy Policy for Codecade
 
-At Kloudemy, accessible from play store, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by Kloudemy and how we use it.
+At Codecade, accessible from play store, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by Codecade and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-This Privacy Policy applies only to our online activities and is valid for users of our app with regards to the information that they shared and/or collect in Kloudemy. This policy is not applicable to any information collected offline or via channels other than this app.
+This Privacy Policy applies only to our online activities and is valid for users of our app with regards to the information that they shared and/or collect in Codecade. This policy is not applicable to any information collected offline or via channels other than this app.
 
 ​
 
@@ -36,13 +36,13 @@ Send you emails
 
 Find and prevent fraud
 
-Log Files Kloudemy follows a standard procedure of using log files. These files log users when they use the app. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, Internet Service Provider (ISP), date and time stamp, referring/exit app, and possibly the number of taps. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the app, and gathering demographic information.
+Log Files Codecade follows a standard procedure of using log files. These files log users when they use the app. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, Internet Service Provider (ISP), date and time stamp, referring/exit app, and possibly the number of taps. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the app, and gathering demographic information.
 
-Advertising Partners Privacy Policies You may consult this list to find the Privacy Policy for each of the advertising partners of Kloudemy.
+Advertising Partners Privacy Policies You may consult this list to find the Privacy Policy for each of the advertising partners of Codecade.
 
-Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Kloudemy, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Codecade, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
-Note that Kloudedy has no access to or control over these cookies that are used by third-party advertisers.
+Note that Codecade has no access to or control over these cookies that are used by third-party advertisers.
 
 ​
 
@@ -84,4 +84,4 @@ If you make a request, we have one month to respond to you. If you would like to
 
 Children's Information Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-Kloudemy does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our app, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+Codecade does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our app, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
